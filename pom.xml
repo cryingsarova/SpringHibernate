@@ -12,7 +12,7 @@
     <properties>
         <spring.version>4.3.6.RELEASE</spring.version>
         <hibernate.version>4.3.6.Final</hibernate.version>
-        <pg.version>42.2.5</pg.version>
+        <pg.version>42.2.25</pg.version>
         <lombok.vesrion>1.18.6</lombok.vesrion>
     </properties>
 
